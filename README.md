@@ -1,4 +1,31 @@
 # probable-potato
+# Probable Potato
+
+**Probable Potato** is a lighthearted web-based game where you guess what potato-related object or food is being shown. The game gives you clues and challenges you to guess as fast as possible. Ready to prove your potato knowledge?
+
+## Features
+- **Potato Guessing Game**: Guess various potato-related objects like dishes, products, or items shaped like potatoes.
+- **Hint System**: If you get stuck, you can request hints, but beware — each hint reduces your score.
+- **Time-Based Gameplay**: There's a time limit for each guess, so think fast!
+- **Potato Fun Facts**: After each round, you'll learn something new about potatoes.
+- **Score and Leaderboard**: Compete with others for the highest score based on speed and accuracy.
+
+## How to Play
+1. **Start the Game**: Click the "Start Game" button to begin.
+2. **View Clue/Image**: You will be shown a clue or image.
+3. **Make a Guess**: Type your guess in the input box and hit submit.
+4. **Scoring**: The faster and more accurately you guess, the higher your score. Requesting hints will reduce your score.
+5. **Learn**: After each guess, you'll get a random potato fact to broaden your potato knowledge.
+
+## Installation
+
+To run the game locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/probable-potato.git
+
 
 
 # Urban Bassoon
